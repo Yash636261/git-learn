@@ -2,10 +2,10 @@
 <h4>all commands</h4>
 <p>
   1.git config: This command sets the author name and email address respectively to be used with your commits.<br>
-    git config –global user.name “[name]”  
+    git config –global user.name “[name]”  <br>
     git config –global user.email “[email address]”
   
-  2.git init: This command is used to start a new repository.
+  2.git init: This command is used to start a new repository.<br>
     git init [repository name]
   
   3.git clone: This command is used to obtain a repository from an existing URL.
