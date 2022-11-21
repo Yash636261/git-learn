@@ -1,7 +1,7 @@
 <h2>repository made to learn all git commands</h2>
-<h4><b>all commands</b></h4>
+<h4>all commands</h4>
 <p>
-  1.git config: This command sets the author name and email address respectively to be used with your commits.
+  1.git config: This command sets the author name and email address respectively to be used with your commits.<br>
     git config –global user.name “[name]”  
     git config –global user.email “[email address]”
   
